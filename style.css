@@ -1,5 +1,3 @@
-
-
 h1{
 	color: black;
 	text-align: center;
@@ -11,7 +9,7 @@ h1{
 }
 h2{
 	color: black;
-	margin:20px;
+	margin:40px;
 	font-size: 20px;
 	font-family: palatino;
 	background-color: powderblue;
@@ -20,7 +18,7 @@ h2{
 }
 h3{
 	color: black;
-	margin:20px;
+	margin:40px;
 	font-size: 20px;
 	font-family: palatino;
 	background-color: powderblue;
@@ -28,56 +26,54 @@ h3{
 }
 
 body{background-color: powderblue;
-	margin: 20px;
+	margin: 40px;
 	font-family: palatino;
 }
 p.first-p {
 	color: black;
-	margin: 20px;
+	margin: 40px;
 }
 p.second-p {
 	color: black;
-	margin: 20px;
-	margin-bottom: 1px;
+	margin: 40px;
+	margin-bottom: 40px;
 }
 p.third-p {
 	color: black;
-	margin: 20px;
+	margin: 40px;
 	margin-top: 1px;
 }
 p.fourth-p {
 	color: black;
-	margin: 20px;
+	margin: 40px;
 }
 p.fifth-p {
 	color: black;
-	margin: 20px;
+	margin: 40px;
 }
 p.sixth-p {
 	color: black;
-	margin: 20px;
+	margin: 40px;
 }
 p.seventh-p {
 	color: black;
-	margin: 20px;
+	margin: 40px;
 	margin-bottom: 50px;
 }
 p.map-p {
 	color: black;
-	margin: 20px;
 	text-align: center;
 	margin-top: 1px;
 	margin-bottom: 1px;
 }
 p.curb_cut-p {
 	color: black;
-	margin: 20px;
 	text-align: center;
 	margin-bottom: 1px;
 }
 p.caption-p {
 	color: black;
-	margin: 20px;
+	margin: 40px;
 	font-size: 15px;
 	text-align: center;
 	margin-top: 1px;
